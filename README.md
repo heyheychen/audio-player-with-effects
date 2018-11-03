@@ -40,5 +40,5 @@ It is a real time FFT, 4 types of FFT window are provided:
 ## Software flow
 
 ## Reference
-1. Naudio library
+1. NAudio library
 2. Zedgraph library
