@@ -1,0 +1,102 @@
+\\Mac\Home\Desktop\work\C#\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\audioplayer_with_EQ_MBDRC.exe.config
+\\Mac\Home\Desktop\work\C#\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\audioplayer_with_EQ_MBDRC.exe
+\\Mac\Home\Desktop\work\C#\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\audioplayer_with_EQ_MBDRC.pdb
+\\Mac\Home\Desktop\work\C#\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\work\C#\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.Properties.Resources.resources
+\\Mac\Home\Desktop\work\C#\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\work\C#\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\work\C#\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.exe
+\\Mac\Home\Desktop\work\C#\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.pdb
+\\Mac\Home\Desktop\work\C#\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\NAudio.dll
+\\Mac\Home\Desktop\work\C#\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.audioplayer_UI_form.resources
+\\Mac\Home\Desktop\work\C#\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.EQ_form.resources
+\\Mac\Home\Desktop\work\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\audioplayer_with_EQ_MBDRC.exe.config
+\\Mac\Home\Desktop\work\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\audioplayer_with_EQ_MBDRC.exe
+\\Mac\Home\Desktop\work\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\audioplayer_with_EQ_MBDRC.pdb
+\\Mac\Home\Desktop\work\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\NAudio.dll
+\\Mac\Home\Desktop\work\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\ZedGraph.dll
+\\Mac\Home\Desktop\work\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\ZedGraph.xml
+\\Mac\Home\Desktop\work\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\de\ZedGraph.resources.dll
+\\Mac\Home\Desktop\work\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\es\ZedGraph.resources.dll
+\\Mac\Home\Desktop\work\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\fr\ZedGraph.resources.dll
+\\Mac\Home\Desktop\work\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\hu\ZedGraph.resources.dll
+\\Mac\Home\Desktop\work\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\it\ZedGraph.resources.dll
+\\Mac\Home\Desktop\work\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\ja\ZedGraph.resources.dll
+\\Mac\Home\Desktop\work\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\pt\ZedGraph.resources.dll
+\\Mac\Home\Desktop\work\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\ru\ZedGraph.resources.dll
+\\Mac\Home\Desktop\work\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\sk\ZedGraph.resources.dll
+\\Mac\Home\Desktop\work\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\sv\ZedGraph.resources.dll
+\\Mac\Home\Desktop\work\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\tr\ZedGraph.resources.dll
+\\Mac\Home\Desktop\work\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\zh-cn\ZedGraph.resources.dll
+\\Mac\Home\Desktop\work\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\zh-tw\ZedGraph.resources.dll
+\\Mac\Home\Desktop\work\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\work\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.audioplayer_UI_form.resources
+\\Mac\Home\Desktop\work\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.EQ_form.resources
+\\Mac\Home\Desktop\work\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.Properties.Resources.resources
+\\Mac\Home\Desktop\work\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\work\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\work\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.exe
+\\Mac\Home\Desktop\work\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.pdb
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\audioplayer_with_EQ_MBDRC.exe.config
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.exe
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.pdb
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.csprojResolveAssemblyReference.cache
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.audioplayer_UI_form.resources
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.EQ_form.resources
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.Properties.Resources.resources
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.csproj.GenerateResource.Cache
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\audioplayer_with_EQ_MBDRC.exe
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\audioplayer_with_EQ_MBDRC.pdb
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\mscorlib.dll
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\NAudio.dll
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\System.Net.Http.dll
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\ZedGraph.dll
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\System.Net.Http.xml
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\ZedGraph.xml
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\zh-Hant\mscorlib.resources.dll
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\zh-Hant\System.Net.Http.resources.dll
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\de\ZedGraph.resources.dll
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\es\ZedGraph.resources.dll
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\fr\ZedGraph.resources.dll
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\hu\ZedGraph.resources.dll
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\it\ZedGraph.resources.dll
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\ja\ZedGraph.resources.dll
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\pt\ZedGraph.resources.dll
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\ru\ZedGraph.resources.dll
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\sk\ZedGraph.resources.dll
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\sv\ZedGraph.resources.dll
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\tr\ZedGraph.resources.dll
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\normidna.nlp
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\normnfc.nlp
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\normnfd.nlp
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\normnfkc.nlp
+D:\桌面\C_sharp\audio_player\audioplayer_with_EQ_MBDRC\audioplayer_with_EQ_MBDRC\bin\Debug\normnfkd.nlp
+\\Mac\Home\Desktop\work\github project\audio_player_with_EQ_DRC\mp3-wav-player\audioplayer_with_EQ_MBDRC\bin\Debug\audioplayer_with_EQ_MBDRC.exe.config
+\\Mac\Home\Desktop\work\github project\audio_player_with_EQ_DRC\mp3-wav-player\audioplayer_with_EQ_MBDRC\bin\Debug\audioplayer_with_EQ_MBDRC.exe
+\\Mac\Home\Desktop\work\github project\audio_player_with_EQ_DRC\mp3-wav-player\audioplayer_with_EQ_MBDRC\bin\Debug\audioplayer_with_EQ_MBDRC.pdb
+\\Mac\Home\Desktop\work\github project\audio_player_with_EQ_DRC\mp3-wav-player\audioplayer_with_EQ_MBDRC\bin\Debug\ZedGraph.xml
+\\Mac\Home\Desktop\work\github project\audio_player_with_EQ_DRC\mp3-wav-player\audioplayer_with_EQ_MBDRC\bin\Debug\de\ZedGraph.resources.dll
+\\Mac\Home\Desktop\work\github project\audio_player_with_EQ_DRC\mp3-wav-player\audioplayer_with_EQ_MBDRC\bin\Debug\es\ZedGraph.resources.dll
+\\Mac\Home\Desktop\work\github project\audio_player_with_EQ_DRC\mp3-wav-player\audioplayer_with_EQ_MBDRC\bin\Debug\fr\ZedGraph.resources.dll
+\\Mac\Home\Desktop\work\github project\audio_player_with_EQ_DRC\mp3-wav-player\audioplayer_with_EQ_MBDRC\bin\Debug\hu\ZedGraph.resources.dll
+\\Mac\Home\Desktop\work\github project\audio_player_with_EQ_DRC\mp3-wav-player\audioplayer_with_EQ_MBDRC\bin\Debug\it\ZedGraph.resources.dll
+\\Mac\Home\Desktop\work\github project\audio_player_with_EQ_DRC\mp3-wav-player\audioplayer_with_EQ_MBDRC\bin\Debug\ja\ZedGraph.resources.dll
+\\Mac\Home\Desktop\work\github project\audio_player_with_EQ_DRC\mp3-wav-player\audioplayer_with_EQ_MBDRC\bin\Debug\pt\ZedGraph.resources.dll
+\\Mac\Home\Desktop\work\github project\audio_player_with_EQ_DRC\mp3-wav-player\audioplayer_with_EQ_MBDRC\bin\Debug\ru\ZedGraph.resources.dll
+\\Mac\Home\Desktop\work\github project\audio_player_with_EQ_DRC\mp3-wav-player\audioplayer_with_EQ_MBDRC\bin\Debug\sk\ZedGraph.resources.dll
+\\Mac\Home\Desktop\work\github project\audio_player_with_EQ_DRC\mp3-wav-player\audioplayer_with_EQ_MBDRC\bin\Debug\sv\ZedGraph.resources.dll
+\\Mac\Home\Desktop\work\github project\audio_player_with_EQ_DRC\mp3-wav-player\audioplayer_with_EQ_MBDRC\bin\Debug\tr\ZedGraph.resources.dll
+\\Mac\Home\Desktop\work\github project\audio_player_with_EQ_DRC\mp3-wav-player\audioplayer_with_EQ_MBDRC\bin\Debug\zh-cn\ZedGraph.resources.dll
+\\Mac\Home\Desktop\work\github project\audio_player_with_EQ_DRC\mp3-wav-player\audioplayer_with_EQ_MBDRC\bin\Debug\zh-tw\ZedGraph.resources.dll
+\\Mac\Home\Desktop\work\github project\audio_player_with_EQ_DRC\mp3-wav-player\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\work\github project\audio_player_with_EQ_DRC\mp3-wav-player\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.audioplayer_UI_form.resources
+\\Mac\Home\Desktop\work\github project\audio_player_with_EQ_DRC\mp3-wav-player\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.DRC_form.resources
+\\Mac\Home\Desktop\work\github project\audio_player_with_EQ_DRC\mp3-wav-player\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.EQ_form.resources
+\\Mac\Home\Desktop\work\github project\audio_player_with_EQ_DRC\mp3-wav-player\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.FFT_form.resources
+\\Mac\Home\Desktop\work\github project\audio_player_with_EQ_DRC\mp3-wav-player\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.Properties.Resources.resources
+\\Mac\Home\Desktop\work\github project\audio_player_with_EQ_DRC\mp3-wav-player\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\work\github project\audio_player_with_EQ_DRC\mp3-wav-player\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\work\github project\audio_player_with_EQ_DRC\mp3-wav-player\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.exe
+\\Mac\Home\Desktop\work\github project\audio_player_with_EQ_DRC\mp3-wav-player\audioplayer_with_EQ_MBDRC\obj\Debug\audioplayer_with_EQ_MBDRC.pdb
