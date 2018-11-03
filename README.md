@@ -36,3 +36,9 @@ It is a real time FFT, 4 types of FFT window are provided:
 - hamming
 - hann
 - blackman
+
+## Software flow
+
+## Reference
+1. Naudio library
+2. Zedgraph library
