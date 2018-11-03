@@ -7,14 +7,14 @@ This is a mp3/wav player with effects that are including:
 - FFT
 
 player GUI:    
+![Alt text](https://github.com/heyheychen/audio-player-with-effects/blob/master/pic/audioplayer_marked.png?raw=true)    
 We can select a mp3 or wav file, text box will show the title of the song and total music time will be updated as well.   
 It also provide volume control and scroll bar for adjusting the playing current time of the song.   
-![Alt text](https://github.com/heyheychen/audio-player-with-effects/blob/master/pic/audioplayer_marked.png?raw=true)    
 
 10band EQ GUI:    
 ![Alt text](https://github.com/heyheychen/audio-player-with-effects/blob/master/pic/EQ.png?raw=true)  
 select a filter type and fill out determined values of gain, frequency, Q factor, the frequency response will update automatically, click apply button to apply the EQ effect to the music.
-filters are including:
+filter types:   
 - peaking
 - high shelf
 - low shelf
