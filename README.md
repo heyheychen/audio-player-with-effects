@@ -42,5 +42,6 @@ It is a real time FFT, 4 types of FFT window are provided:
 
 
 ## Reference
-1. NAudio library
-2. Zedgraph library
+1. NAudio library - https://github.com/naudio/NAudio    
+2. Zedgraph library - http://zedgraph.sourceforge.net/samples.html
+
