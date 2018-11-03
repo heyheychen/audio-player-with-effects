@@ -38,6 +38,8 @@ It is a real time FFT, 4 types of FFT window are provided:
 - blackman
 
 ## Software flow
+![Alt text](https://github.com/heyheychen/audio-player-with-effects/blob/master/pic/audio%20player%20flow.png?raw=true)  
+
 
 ## Reference
 1. NAudio library
