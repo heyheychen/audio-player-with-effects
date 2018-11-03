@@ -6,15 +6,15 @@ This is a mp3/wav player with effects that are including:
 - three band DRC
 - FFT
 
-player GUI:    
+Player GUI:    
 ![Alt text](https://github.com/heyheychen/audio-player-with-effects/blob/master/pic/audioplayer_marked.png?raw=true)    
 We can select a mp3 or wav file, text box will show the title of the song and total music time will be updated as well.   
 It also provide volume control and scroll bar for adjusting the playing current time of the song.   
 
 10band EQ GUI:    
 ![Alt text](https://github.com/heyheychen/audio-player-with-effects/blob/master/pic/EQ.png?raw=true)  
-select a filter type and fill out determined values of gain, frequency, Q factor, the frequency response will update automatically, click apply button to apply the EQ effect to the music.
-filter types:   
+select a filter type and fill out desired values of gain, frequency, Q factor, the frequency response will update automatically, click apply button to apply the EQ effect to the music.   
+filter types are:   
 - peaking
 - high shelf
 - low shelf
@@ -25,8 +25,9 @@ filter types:
 - notch
 - bypass    
 
-three band DRC GUI:   
+Three band DRC GUI:   
 ![Alt text](https://github.com/heyheychen/audio-player-with-effects/blob/master/pic/MBDRC.png?raw=true)  
+It is three band dynamic range control, we can seperate music frequency into low-band, mid-band, and high-band by setting split frequencys. Each bands provides RMS and peak mode and a check box for enable or disable DRC effect.
 
 FFT GUI:    
 ![Alt text](https://github.com/heyheychen/audio-player-with-effects/blob/master/pic/FFT.png?raw=true)  
