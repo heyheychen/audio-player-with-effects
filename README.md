@@ -13,7 +13,7 @@ It also provide volume control and scroll bar for adjusting the playing current 
 
 10band EQ GUI:    
 ![Alt text](https://github.com/heyheychen/audio-player-with-effects/blob/master/pic/EQ.png?raw=true)  
-select a filter type and fill out desired values of gain, frequency, Q factor, the frequency response will update automatically, click apply button to apply the EQ effect to the music.   
+Select a filter type and fill out desired values of gain, frequency, Q factor, the frequency response will update automatically, click apply button to apply the EQ effect to the music.   
 filter types are:   
 - peaking
 - high shelf
@@ -31,3 +31,8 @@ It is three band dynamic range control, we can seperate music frequency into low
 
 FFT GUI:    
 ![Alt text](https://github.com/heyheychen/audio-player-with-effects/blob/master/pic/FFT.png?raw=true)  
+It is a real time FFT, 4 types of FFT windows are provided:   
+- rectangular
+- hamming
+- hann
+- blackman
