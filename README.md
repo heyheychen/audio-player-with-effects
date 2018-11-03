@@ -31,7 +31,7 @@ It is three band dynamic range control, we can seperate music frequency into low
 
 FFT GUI:    
 ![Alt text](https://github.com/heyheychen/audio-player-with-effects/blob/master/pic/FFT.png?raw=true)  
-It is a real time FFT, 4 types of FFT windows are provided:   
+It is a real time FFT, 4 types of FFT window are provided:   
 - rectangular
 - hamming
 - hann
